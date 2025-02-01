@@ -1,0 +1,9 @@
+txt.file
+
+
+"api_key" 
+
+'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'
+
+
+"402b1283f7fe4e839748808d0c8c4ab8"
